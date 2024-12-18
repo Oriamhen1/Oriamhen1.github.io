@@ -1,89 +1,86 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: Resume
+title: Godspower Oriamhen's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Godspower Oriamhen
+Business Analytics Major, Computer Information Technology Minor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://www.linkedin.com/in/godspower-oriamhen/"></a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+I am a dedicated Business Analytics Major, passionate about transforming raw data into meaningful insights. My academic background, coupled with hands-on experience, has equipped me with a robust skill set in data analysis, statistical modeling, and strategic decision-making. 
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+I am trying to leverage my analytical skills to drive business success. Passionate about finding innovative solutions to complex problems, I am eager to contribute to the evolving landscape of data-driven decision-making. I thrive in collaborative environments where diverse perspectives converge to solve challenges. Whether working with cross-functional teams or engaging in insightful discussions, I believe in the power of collaboration to achieve exceptional results. In the dynamic field of business analytics, staying ahead requires a commitment to continuous learning. I am dedicated to keeping my skills sharp and staying informed about emerging trends in data analytics and business intelligence. 
+
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data Science, Data Analysis, Business Analysis, Transforming data into actionable insights.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021-2025`
+__Brigham Young University - Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+# Skills
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Data Analysis: Sequel (SQL), Microsoft Excel, Power BI, Tableau, R
+Programming: Python, JavaScript
+Soft Skills: Analytical Thinking, Problem Solving, Teamwork, Time Management, Supervisory & Management
 
 
+## Current employment
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+Data Analyst | TA Supervisor - Brigham Young University Idaho
 
 
+# Work Experience
 
-## Publications
+## AOS Data Analyst | Teaching Assistant Supervisor March2024 -Present
+Online Academic Support | BYU-Idaho 
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+• Utilize R Studio to analyze online TA data and run reports then present findings to manager.
+• Analyze weekly survey reports to determine TAs strength, success and concerns using Microsoft Excel.
+• Supervise and support TAs, ensuring efficiency and accountability with their work
 
-### Journals
+## Research Analyst Intern Sept 2023 – Dec 2023
+Idaho Entrepreneur Center Rexburg, ID
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+• Analyzed research project data, market trends, and competitive intelligence to support strategic decisions. 
+• Leveraged Excel, Tableau, Power BI to create data-driven insights for strategies and decision-making.
+• Conducted market research to identify trends, client need and growth opportunities.
+• Prepared comprehensive reports and communicated findings to senior managers.
 
-`1669`
-Lectiones opticæ.
+## Mobile Site Manager Aug. 2021 – Feb 2022
+Nomi Health Rexburg, ID
+• Administered COVID-19 tests, ensuring accuracy and adherence to health protocols. 
+• Managed mobile site setup and logistics for daily readiness and efficiency.
+• Trained new employees in testing procedures and site operations.
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Sales Manager June 2018 – Feb 2020
+Agbon Joy Global Limited, NG Benin, Nigeria 
+• Generated daily sales and inventory reports to support strategic decision-making and boost sales performance.
+• Utilized Excel to analyze company progress, identify challenges, set goals, and recommend improvements.
 
 
+# Certifications
+
+`2024`
+Lean Six Sigma - Green Belt
+
+Google - Data Analytics
+
+Google - Project Management
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: October 2024 -->
